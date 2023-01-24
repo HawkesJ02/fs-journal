@@ -17,9 +17,15 @@ reads top down!
 [object object] = drill deeper to get info you need 
 
 ctrl + . 
+ctrl d
 
 = reassign
 
 == are two values alike
 
 === are two values alike and exact same data type
+
+
+(alt shift down)
+
+=> Lambda
