@@ -29,3 +29,10 @@ ctrl d
 (alt shift down)
 
 => Lambda
+
+min height good ^-^
+max height danger :(
+
+Card inside col. never style AT col. level
+
+shift+tab 
