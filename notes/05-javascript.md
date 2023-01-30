@@ -36,3 +36,5 @@ max height danger :(
 Card inside col. never style AT col. level
 
 shift+tab 
+
+sweetalert2
