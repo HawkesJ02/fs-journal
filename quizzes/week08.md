@@ -3,7 +3,7 @@
 **1.** What is the package.json file used for?
 <!-- enter you answer in the space below -->
 ```
-
+It stands for Java script object notation. It is more or less a giant collection of JS objects as data.
 ``` 
 **2.** At what level of your project do you need package.json when deploying your application? Why?
 <!-- enter you answer in the space below -->
