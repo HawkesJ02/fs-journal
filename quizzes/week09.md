@@ -38,15 +38,15 @@ Definaation of Done. Everyone understands what the done product is and when it i
 **8.** Give two examples of a user story:
 <!-- enter you answer in the space below -->
 ```
-A user story is 
+A user story is the idea of what the software does as explained by the user. Someone who uses it and is also not the coder who wrote it.
 ```
 **9.** During which ceremony is your Sprint Backlog created?
 <!-- enter you answer in the space below -->
 ```
-
+I'm pretty sure its doing the review. Or at leas this is when my team did it and we updated things. 
 ```
 **10.** In which of these ceremonies are Tasks assigned to you?
 <!-- enter you answer in the space below -->
 ```
-
+During the planning. Since, well that's when we plan
 ```
